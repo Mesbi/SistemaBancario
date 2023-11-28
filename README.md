@@ -39,5 +39,12 @@ Para usar este sistema bancário, você precisa compilar e executar o código. D
 ## Contribuição
 Contribuições são bem-vindas. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Autores
+
+- [@jonathassdev](https://github.com/jonathassdev) 
+- [@zlucskywalker](https://github.com/zlucskywalker) 
+- [@Mesbi](https://github.com/Mesbi) 
+- [@jheyliljet](https://github.com/jheyliljet) 
+
 ## Licença
 Este projeto está licenciado sob a licença MIT.
