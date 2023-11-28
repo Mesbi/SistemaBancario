@@ -1,4 +1,4 @@
-# Sistema Bancário em C++
+# Sistema Bancário em C++ 🏦
 
 Este projeto é um sistema bancário simples implementado em C++. Ele simula as operações básicas de um banco, permitindo ao usuário criar uma conta, verificar o saldo, depositar dinheiro, sacar dinheiro e transferir dinheiro entre contas.
 
